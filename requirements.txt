@@ -2,5 +2,5 @@ streamlit==1.38.0
 python-dotenv==1.0.1
 langchain==0.3.7
 langchain-openai==0.2.5
-langchain-tavily==0.1.0
+langchain-tavily==0.2.18
 requests==2.32.3
